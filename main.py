@@ -38,7 +38,7 @@ def main():
         time.sleep(sleepTime - diff) # FIXME sleepTime - diff must be a positive number
 
         start = time.time()
-        input('Drink!\a')
+        input('Drik!!\a')
         end = time.time()
         diff = end - start
 
